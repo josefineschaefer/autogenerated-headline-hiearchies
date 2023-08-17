@@ -8,7 +8,7 @@
 </script>
 
 <div use:storyblokEditable={blok}>
-	<svelte:element this={tag} class="text-6xl text-center mb-8 mt-8 text-[#50b0ae] font-bold"
+	<svelte:element this={tag} class="text-6xl text-center mb-8 mt-8 text-[#772D8B] font-bold"
 		>{blok.headline}</svelte:element
 	>
 	<div
